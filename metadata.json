@@ -1,0 +1,6 @@
+{
+  "name": "work home",
+  "description": "Professional Job Marketplace Platform connecting job seekers and employers with escrow payments, time tracking, real-time messaging, map radar, multi-language RTL support, and social showcase.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
